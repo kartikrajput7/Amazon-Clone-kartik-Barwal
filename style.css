@@ -78,7 +78,6 @@
 .nav-search{
     display: flex;
     justify-content: space-evenly;
-    background-color: darkorange;
     width: 800px;
     height: 40px;
     border-radius: 4px;
