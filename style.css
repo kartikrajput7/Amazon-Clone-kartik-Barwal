@@ -1,3 +1,5 @@
+/* This Code is written By kartik Barwal As A Portfolio */
+
 *{
     margin: 0;
     padding: 0;
@@ -122,6 +124,16 @@
 }
 
 /* BOX 4 */
+
+.nav-signin1{
+    margin-right:15px;
+}
+.nav-signin2{
+    margin-right: 15px;
+}
+.nav-cart-border{
+    margin-right:15px;
+}
 
 span{
     font-size:0.7rem;
